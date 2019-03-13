@@ -1,0 +1,13 @@
+c:\users\gabri\documents\visual studio 2017\Projects\Juego de la Vida\Juego de la Vida\bin\Debug\Juego de la Vida.exe.config
+c:\users\gabri\documents\visual studio 2017\Projects\Juego de la Vida\Juego de la Vida\bin\Debug\Juego de la Vida.exe
+c:\users\gabri\documents\visual studio 2017\Projects\Juego de la Vida\Juego de la Vida\bin\Debug\Juego de la Vida.pdb
+c:\users\gabri\documents\visual studio 2017\Projects\Juego de la Vida\Juego de la Vida\obj\Debug\Juego de la Vida.csprojResolveAssemblyReference.cache
+c:\users\gabri\documents\visual studio 2017\Projects\Juego de la Vida\Juego de la Vida\obj\Debug\Juego de la Vida.exe
+c:\users\gabri\documents\visual studio 2017\Projects\Juego de la Vida\Juego de la Vida\obj\Debug\Juego de la Vida.pdb
+F:\Users\gabri\Documents\Visual Studio 2017\Projects\Juego de la Vida\Juego de la Vida\bin\Debug\Juego de la Vida.exe.config
+F:\Users\gabri\Documents\Visual Studio 2017\Projects\Juego de la Vida\Juego de la Vida\bin\Debug\Juego de la Vida.exe
+F:\Users\gabri\Documents\Visual Studio 2017\Projects\Juego de la Vida\Juego de la Vida\bin\Debug\Juego de la Vida.pdb
+F:\Users\gabri\Documents\Visual Studio 2017\Projects\Juego de la Vida\Juego de la Vida\obj\Debug\Juego de la Vida.csproj.CoreCompileInputs.cache
+F:\Users\gabri\Documents\Visual Studio 2017\Projects\Juego de la Vida\Juego de la Vida\obj\Debug\Juego de la Vida.exe
+F:\Users\gabri\Documents\Visual Studio 2017\Projects\Juego de la Vida\Juego de la Vida\obj\Debug\Juego de la Vida.pdb
+F:\Users\gabri\Documents\Visual Studio 2017\Projects\Juego de la Vida\Juego de la Vida\obj\Debug\Juego de la Vida.csprojAssemblyReference.cache
